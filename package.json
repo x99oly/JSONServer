@@ -1,0 +1,21 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-json": "json-server --watch data/db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hyphen": "^1.10.4",
+    "json": "^11.0.0",
+    "server": "^1.0.39"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}

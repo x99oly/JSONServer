@@ -1,0 +1,29 @@
+{
+  "client": [
+    {
+      "id": "0",
+      "name": "Manager",
+      "e-mail": "admin",
+      "password": "admin"
+    }
+  ],
+  "products": [
+    {
+      "SKU": "pppp",
+      "name": "produto",
+      "description": "some description here",
+      "price": 0,
+      "amount": 0,
+      "id": "f40b"
+    },
+    {
+      "id": "affd",
+      "SKU": "1234",
+      "name": "produto1",
+      "description": "este mesmo",
+      "price": 10,
+      "amount": 5
+    }
+  ],
+  "sales": []
+}
